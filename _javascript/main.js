@@ -4,7 +4,7 @@ function passWord() {
    while (testV < 3) {
    if (!pass1)
    history.go(-1);
-   if (pass1.toLowerCase() == "48minutes") {
+   if (pass1.toLowerCase() == "secretsecretsecret") {
        window.open("/48/48192231/Rina2131.html",'_self')
        return " ";
    }
